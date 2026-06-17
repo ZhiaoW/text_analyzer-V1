@@ -1,0 +1,15 @@
+Hello hello world!
+
+This is a small sample text file for Text Analyzer project.
+The goal of this file is to test word counting, text cleaning, and top word ranking.
+
+I am a Mathematics and Statistics student, not from a traditional Computer Science background.
+But I want to prepare for LLM AI algorithm internships in 2027.
+I always feel anxious about competing with Computer Science students because I just have limited programming,
+machine learning, deep learning, NLP, RAG, Agent, Git, and engineering experience.
+There is a main concern that whether a mathematics background can work in LLM.
+I clarify the types of large model roles, including pre-training, post-training,
+RAG, Agent, evaluation, multimodal LLMs, inference optimization, and LLM application algorithm roles.
+Based on my current background and timeline, I decided that the most realistic target is:
+
+RAG + Agent application algorithm internship
