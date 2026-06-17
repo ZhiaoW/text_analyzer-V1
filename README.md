@@ -83,9 +83,9 @@ TEXT ANALYSIS REPORT
 Total word: 11
 Unique word: 8
 
-Most common word: python （a times)
-Most common word: is (b times)
-Most common word: fun (c times)
+** Most common word: python （a times)
+** Most common word: is (b times)
+** Most common word: fun (c times)
 
 Frequency of words saved to Text Analyzer.csv
 
