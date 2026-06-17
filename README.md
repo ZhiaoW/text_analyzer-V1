@@ -79,7 +79,6 @@ Text analyzer is a simple Python project.
 ## 示例输出
 
 TEXT ANALYSIS REPORT
---------------------
 
 Total words: 11
 Unique words: 8
@@ -90,6 +89,7 @@ Top 3 most common words:
 3. fun             2 times
 
 Frequency of words saved to: Text_Analyzer.csv
+
 ---
 
 ## CSV 输出
